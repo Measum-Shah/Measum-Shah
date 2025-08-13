@@ -1,19 +1,14 @@
 
 ![snake gif](https://github.com/Measum-Shah/Measum-Shah/blob/output/github-snake-dark.svg)
 
-# 💫 About Me:
-💻👋 Hi, I’m Measum — a Full Stack Developer <br><br>🏁 Started with HTML/CSS/JS at E-Comet <br>⚙️  Dived deep into the MERN Stack (MongoDB, Express, React, Node)<br>🎨 Explored UI with Tailwind & Bootstrap <br>🛠️ Built and modified full-stack projects <br>🔁 Now Working on  Vue 3 & Nuxt  at WebTech.dev<br>🔐 Comfortable with APIs, Auth (JWT/Firebase), MongoDB Aggregation <br>📚 Also  have a strong grip in Java, C++, Python .<br><br>🚀☁️ Future goal: Senior MERN + DevOps (AWS/Docker/K8s) 
+# About Me:
+Hi, I’m Measum — a Full Stack Developer <br><br>Started with HTML/CSS/JS at E-Comet <br>⚙Dived deep into the MERN Stack (MongoDB, Express, React, Node)<br>Explored UI with Tailwind & Bootstrap <br>Built and modified full-stack projects <br>Now Working on  Vue 3 & Nuxt  at WebTech.dev<br>Comfortable with APIs, Auth (JWT/Firebase), MongoDB Aggregation <br> Also  have a strong grip in Java, C++, Python .<br><br>Future goal: Senior Full Stack + DevOps (AWS/Docker/K8s) Engineer
 
 
-# 💻 Tech Stack:
+#Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
+#GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Measum-Shah&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Measum-Shah&theme=shadow_green&hide_border=true)<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Measum-Shah&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
