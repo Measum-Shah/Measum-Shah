@@ -2,7 +2,7 @@
 ![snake gif](https://github.com/Measum-Shah/Measum-Shah/blob/output/github-snake-dark.svg)
 
 # About Me:
-Hi, I’m Measum — a Full Stack Developer <br><br>Started with HTML/CSS/JS at E-Comet <br>⚙Dived deep into the MERN Stack (MongoDB, Express, React, Node)<br>Explored UI with Tailwind & Bootstrap <br>Built and modified full-stack projects <br>Now Working on  Vue 3 & Nuxt  at WebTech.dev<br>Comfortable with APIs, Auth (JWT/Firebase), MongoDB Aggregation <br> Also  have a strong grip in Java, C++, Python .<br><br>Future goal: Senior Full Stack + DevOps (AWS/Docker/K8s) Engineer
+Hi, I’m Measum — a Full Stack Developer <br><br>Started with HTML/CSS/JS at E-Comet <br>⚙Dived deep into the MERN Stack (MongoDB, Express, React, Node)<br>Explored UI with Tailwind & Bootstrap <br>Built and modified full-stack projects <br>Now Working on  Vue 3 & Nuxt  at WebTech.dev<br>Comfortable with APIs, Auth (JWT/Firebase), MongoDB Aggregation<br>Future goal: Senior Full Stack + DevOps (AWS/Docker/K8s) Engineer
 
 
 # Tech Stack:
