@@ -2,7 +2,9 @@
 ![snake gif](https://github.com/Measum-Shah/Measum-Shah/blob/output/github-snake-dark.svg)
 
 # About Me:
-Hi, I’m Measum — a Full Stack Developer <br><br>Started with HTML/CSS/JS at E-Comet <br>⚙Dived deep into the MERN Stack (MongoDB, Express, React, Node)<br>Explored UI with Tailwind & Bootstrap <br>Built and modified full-stack projects <br>Now Working on  Vue 3 & Nuxt  at WebTech.dev<br>Comfortable with APIs, Auth (JWT/Firebase), MongoDB Aggregation<br>Future goal: Senior Full Stack + DevOps (AWS/Docker/K8s) Engineer
+My name is Measum Shah. I am a Computer Science student and a full-stack web developer from Pakistan. I mostly work with the MERN stack, React, Node.js, MongoDB, and modern UI/UX design. I am passionate about building real-world software projects such as e-commerce platforms, advertisement management systems, and machine learning applications.
+
+Along with web development, I am also exploring machine learning, AI agents, and automation to grow my skills in modern technology. I enjoy solving problems, building practical systems, and helping other students learn development through tech communities like Dev Connect.
 
 
 # Tech Stack:
